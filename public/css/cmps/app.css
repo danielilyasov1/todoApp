@@ -1,0 +1,19 @@
+.main {
+  width: 90%;
+  height: 80%;
+  margin: 6rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  background-color: #f4f5f1;
+  padding: 2rem;
+  border-radius: 12px;
+  /* min-height: 42rem; */
+  position: relative;
+}
+
+footer {
+  text-align: center;
+  position: block;
+  margin-top: 10rem;
+}
